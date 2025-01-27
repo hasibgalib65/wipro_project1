@@ -1,6 +1,9 @@
 Hello Ram
 
-
+<<<<<<< HEAD
 
 
 Hasib Changes in Ram file
+=======
+New Changes By Ram
+>>>>>>> d9f99bd07fe44ed36f8a050f0edfeb4cbbd27fb2
